@@ -1,6 +1,6 @@
 # user-center-front
 
-用户中心前端(基于react、typescript、ant-desgin-pro)
+用户中心前端(基于react、ant-desgin-pro)
 
 ## Environment Prepare
 
